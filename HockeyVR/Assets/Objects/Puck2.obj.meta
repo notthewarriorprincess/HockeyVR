@@ -8,15 +8,20 @@ ModelImporter:
     100000: //RootNode
     100002: RoadKillOut
     100004: initialShadingGroup_RoadKillOut
+    100006: RoadKillOut_initialShadingGroup_initialShadingGroup1_polySurface1
     400000: //RootNode
     400002: RoadKillOut
     400004: initialShadingGroup_RoadKillOut
+    400006: RoadKillOut_initialShadingGroup_initialShadingGroup1_polySurface1
     2300000: RoadKillOut
     2300002: initialShadingGroup_RoadKillOut
+    2300004: RoadKillOut_initialShadingGroup_initialShadingGroup1_polySurface1
     3300000: RoadKillOut
     3300002: initialShadingGroup_RoadKillOut
+    3300004: RoadKillOut_initialShadingGroup_initialShadingGroup1_polySurface1
     4300000: RoadKillOut
     4300002: initialShadingGroup_RoadKillOut
+    4300004: RoadKillOut_initialShadingGroup_initialShadingGroup1_polySurface1
   materials:
     importMaterials: 1
     materialName: 0
