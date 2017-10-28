@@ -543,19 +543,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Textures
+    - Assets/Objects
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Textures
+  - Assets/Objects
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Zena\Documents\GitHub\HockeyVR\HockeyVR
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 247}
-    m_SelectedIDs: be250000
-    m_LastClickedID: 9662
-    m_ExpandedIDs: 00000000762500000626000098260000a2260000e026000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 95}
+    m_SelectedIDs: 08260000
+    m_LastClickedID: 9736
+    m_ExpandedIDs: 0000000076250000082600009c260000a6260000e626000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -583,7 +583,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000762500000626000098260000a2260000e0260000
+    m_ExpandedIDs: 0000000076250000082600009c260000a6260000e6260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -611,7 +611,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: 042d000032240000000000006a2400003a240000442400000026000064260000
+    m_ExpandedInstanceIDs: 042d000032240000000000006a2400003a2400004424000000260000642600009026000092260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -699,9 +699,9 @@ MonoBehaviour:
     height: 655
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: be250000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 8cfbffff92fbffffbafbffffbcfbffffe2fbffff00000000
+    m_ExpandedIDs: 8cfbffff92fbffffbafbffffbcfbffffe0fbffffe2fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -756,9 +756,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 10.26384, y: 0.08507085, z: 18.650084}
+    m_Target: {x: -1.2199683, y: 2.9044974, z: -0.38275194}
     speed: 2
-    m_Value: {x: 10.26384, y: 0.08507085, z: 18.650084}
+    m_Value: {x: -1.2199683, y: 2.9044974, z: -0.38275194}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -781,13 +781,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.050513852, y: 0.28994104, z: -0.015326522, w: 0.9555877}
+    m_Target: {x: 0.1928539, y: 0.1622263, z: -0.032342985, w: 0.967196}
     speed: 2
-    m_Value: {x: -0.05051385, y: -0.28994104, z: 0.015326521, w: -0.9555876}
+    m_Value: {x: 0.19285157, y: 0.16222435, z: -0.032342594, w: 0.96718436}
   m_Size:
-    m_Target: 26.171085
+    m_Target: 6.855047
     speed: 2
-    m_Value: 26.171085
+    m_Value: 6.855047
   m_Ortho:
     m_Target: 0
     speed: 2

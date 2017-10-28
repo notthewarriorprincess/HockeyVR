@@ -1,22 +1,17 @@
 fileFormatVersion: 2
 guid: 21155628e40e35b45a2b6f35bc9327d5
-timeCreated: 1509129238
+timeCreated: 1509222784
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
     100002: RoadKillOut
-    100004: initialShadingGroup_RoadKillOut
     400000: //RootNode
     400002: RoadKillOut
-    400004: initialShadingGroup_RoadKillOut
     2300000: RoadKillOut
-    2300002: initialShadingGroup_RoadKillOut
     3300000: RoadKillOut
-    3300002: initialShadingGroup_RoadKillOut
     4300000: RoadKillOut
-    4300002: initialShadingGroup_RoadKillOut
   materials:
     importMaterials: 1
     materialName: 0
