@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -42,10 +42,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 683, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 49
+  controlID: 11
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -64,8 +64,8 @@ MonoBehaviour:
     y: 0
     width: 277
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -90,8 +90,8 @@ MonoBehaviour:
     y: 0
     width: 219
     height: 676
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -209,10 +209,10 @@ MonoBehaviour:
     y: 0
     width: 1643
     height: 947
-  m_MinSize: {x: 404, y: 492}
+  m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 50
+  controlID: 12
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,10 +233,10 @@ MonoBehaviour:
     y: 0
     width: 1643
     height: 676
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 51
+  controlID: 13
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -549,7 +549,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Claedoh\Documents\GitHub\HockeyVR\HockeyVR
+  m_LastProjectPath: C:\Users\Zena\Documents\GitHub\HockeyVR\HockeyVR
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 95}
@@ -699,9 +699,9 @@ MonoBehaviour:
     height: 655
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 482a0000
-    m_LastClickedID: 10824
-    m_ExpandedIDs: c0f8ffffc6f8ffffeef8fffff6f8ffff10f9ffff00000000
+    m_SelectedIDs: 74f0ffff
+    m_LastClickedID: -3980
+    m_ExpandedIDs: 10f9ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -756,9 +756,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.0019998401, y: -0.016438626, z: -0.020519853}
+    m_Target: {x: -0.31258488, y: -90.2046, z: -81.29434}
     speed: 2
-    m_Value: {x: 0.0019998401, y: -0.016438626, z: -0.020519853}
+    m_Value: {x: -0.31258488, y: -90.2046, z: -81.29434}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -781,13 +781,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.0017193562, y: 0.9970386, z: -0.07341448, w: -0.023332383}
+    m_Target: {x: 0.009894029, y: 0.91524214, z: -0.40215254, w: 0.022523062}
     speed: 2
-    m_Value: {x: -0.0017193365, y: 0.9970272, z: -0.07341364, w: -0.023332117}
+    m_Value: {x: 0.009894029, y: 0.91524214, z: -0.40215254, w: 0.022523062}
   m_Size:
-    m_Target: 2.9119072
+    m_Target: 147.12004
     speed: 2
-    m_Value: 2.9119072
+    m_Value: 147.12004
   m_Ortho:
     m_Target: 0
     speed: 2
