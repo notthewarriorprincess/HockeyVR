@@ -5,7 +5,10 @@ using UnityEngine;
 public class TouchControllers : MonoBehaviour {
 
     public OVRInput.Controller controller;
-	// Use this for initialization
+	public GameObject puckSteve;
+    private GameObject newPuck;
+    
+    // Use this for initialization
 	void Start () {
 		
 	}
@@ -15,6 +18,9 @@ public class TouchControllers : MonoBehaviour {
 		if (OVRInput.Get(OVRInput.Button.One, controller))
         {
             Debug.Log("Pressed A!");
+            Destroy(newPuck);
+            newPuck = Instantiate(puckSteve) as GameObject;
+            newPuck.transform.position = new Vector3(10.369f, 2, 0);
         }
 	}
 }
