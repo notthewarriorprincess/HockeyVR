@@ -6,17 +6,29 @@ using UnityEngine.UI;
 public class Net : MonoBehaviour {
 
     public Scoreboard scoreboard;
+    private int score;
+    private bool isColliding;
 	// Use this for initialization
 	void Start () {
 		
 	}
 
-    void OnCollisionEnter(Collision collider)
+    void OnTriggerEnter(Collider other)
     {
-        if (collider.gameObject.name == "Puck2")
+        if (other.gameObject.tag == "puck")
         {
-            scoreboard.homeScore.text += 1;
+            if (isColliding) return;
+            isColliding = true;
+            score++;
+            scoreboard.homeScore.text = "" +score;
+            Debug.Log("found puck"); 
         }
+        Debug.Log("found... something?");
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        isColliding = false;
     }
     // Update is called once per frame
     void Update () {

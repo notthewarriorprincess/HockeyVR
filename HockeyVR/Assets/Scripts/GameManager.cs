@@ -18,7 +18,7 @@ public class GameManager : MonoBehaviour {
 	void Update () {
         if (newPuck.transform.position.y < -1 || OVRInput.Get(OVRInput.Button.One, controller))
         {
-            Debug.Log("I FELL!");
+            //Debug.Log("I FELL!");
             Destroy(newPuck);
             newPuck = Instantiate(puckSteve) as GameObject;
             newPuck.transform.position = new Vector3(10.369f, 2, 0);

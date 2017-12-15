@@ -19,6 +19,6 @@ public class PuckPhysics : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        Debug.Log("I've been hit!");
+        //Debug.Log("I've been hit!");
     }
 }
